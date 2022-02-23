@@ -6,6 +6,7 @@ authors = ["Dilec Padovani <dilec.padovani@gmail.com>"]
 description= "Rust wrapper of 1secmail temporary mail service"
 license = "MIT"
 readme="readme.md"
+repository = "https://github.com/DILECPEDO/temporary_mail"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
