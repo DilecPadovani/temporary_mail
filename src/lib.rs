@@ -98,7 +98,6 @@ impl TempEmail {
                 .unwrap()
                 .json()
                 .unwrap();
-            println!("b");
 
             inbox.push(email);
         }
